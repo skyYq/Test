@@ -5,5 +5,6 @@ public class HelloWorld {
 		int i = 0;
 		int x = 10;
 		int y = 200;
+		int z = 3000;
 	}
 }
