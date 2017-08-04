@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <?xml version="1.0" encoding="UTF-8"?>
 <faceted-project>
   <runtime name="com.genuitec.runtime.generic.jee60"/>
@@ -9,3 +10,16 @@
   <installed facet="jst.web.jstl" version="1.2.1"/>
   <installed facet="wst.jsdt.web" version="1.0"/>
 </faceted-project>
+=======
+<?xml version="1.0" encoding="UTF-8"?>
+<faceted-project>
+  <runtime name="com.genuitec.runtime.generic.jee60"/>
+  <fixed facet="java"/>
+  <fixed facet="jst.web"/>
+  <fixed facet="wst.jsdt.web"/>
+  <installed facet="java" version="1.6"/>
+  <installed facet="jst.web" version="3.0"/>
+  <installed facet="jst.web.jstl" version="1.2.1"/>
+  <installed facet="wst.jsdt.web" version="1.0"/>
+</faceted-project>
+>>>>>>> 5a096e6cd2f57d683656200afc2c8228e7ae5e2a

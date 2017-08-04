@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
     <wb-module deploy-name="HelloWorld">
         <wb-resource deploy-path="/" source-path="/WebRoot" tag="defaultRootSource"/>
@@ -6,3 +7,13 @@
         <property name="java-output-path" value="/HelloWorld/WebRoot/WEB-INF/classes"/>
     </wb-module>
 </project-modules>
+=======
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="HelloWorld">
+        <wb-resource deploy-path="/" source-path="/WebRoot" tag="defaultRootSource"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src"/>
+        <property name="context-root" value="HelloWorld"/>
+        <property name="java-output-path" value="/HelloWorld/WebRoot/WEB-INF/classes"/>
+    </wb-module>
+</project-modules>
+>>>>>>> 5a096e6cd2f57d683656200afc2c8228e7ae5e2a
