@@ -7,5 +7,6 @@ public class HelloWorld {
 		int y = 200;
 		int z = 3000;
 		int zz = 33333;
+		int xxx = 777777;
 	}
 }
